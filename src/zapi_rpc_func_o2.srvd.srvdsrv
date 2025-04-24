@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition API Funcionario'
+define service ZAPI_RPC_FUNC_O2 {
+  expose ZI_RPC_FUNC as Funcionario;
+}
